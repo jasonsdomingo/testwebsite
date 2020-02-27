@@ -1,0 +1,121 @@
+p {
+  font-family: 'Playfair Display', sans-serif;
+  line-height: 2;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sacramento', sans-serif;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  color: #11999E;
+}
+
+body {
+  color: #112d4e;
+  text-align: center;
+  margin: 0;
+}
+
+hr {
+  border: dotted #1b262c 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.jason {
+  background-color: #f90;
+}
+
+.me {
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+
+.airplane {
+  width: 100%;
+
+}
+
+.profile-1 {
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+
+.skill-row {
+  margin: 100px auto 200px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.code-gif {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.program-gif {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.btn {
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+	padding:10px 11px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #beebe9;
+  margin: 50px 0 0 0;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
